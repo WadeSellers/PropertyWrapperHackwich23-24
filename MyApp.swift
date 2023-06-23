@@ -9,5 +9,6 @@ struct MyApp: App {
             ContentView()
                 .environmentObject(score)
         }
+        
     }
 }
